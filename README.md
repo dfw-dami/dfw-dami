@@ -1,8 +1,8 @@
-# Hi, I'm Dami 👋  
-I'm a **Backend Developer** passionate about building efficient, scalable, and fun server-side applications.
+# konnichiwa, dami here🌀 
+I'm a **Backend Developer (learning stil)** passionate about building efficient, scalable, and fun server-side applications.
 
-## 🧠 About Me  
-- 💻 I specialize in backend development using **Node.js** and **MongoDB**  
+## 🧠 Me  
+- 💻 I work in backend development using **Node.js** and **MongoDB**  
 - 🤖 I build and experiment with **Baileys** (WhatsApp bot framework)  
 - 🐍 I also write in **Python** for automation and scripting  
 - 🌱 Currently improving my skills in API design and server optimization  
@@ -22,5 +22,5 @@ I'm a **Backend Developer** passionate about building efficient, scalable, and f
 
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dfw-dami&layout=compact&theme=tokyonight&cache_seconds=300)
-## 📱 Connect With Me  
+## 📱 wanna text? here:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/_milk.xq?igsh=dWV5eDRlOG5uMnht)

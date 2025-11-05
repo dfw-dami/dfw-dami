@@ -15,10 +15,10 @@ I'm a **Backend Developer** passionate about building efficient, scalable, and f
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visual-studio-code&logoColor=white)
-
+![Dami's GitHub Streak](https://streak-stats.demolab.com?user=dfw-dami&theme=tokyonight&border_radius=5)
 ## 📊 GitHub Stats  
 ![Dami's GitHub stats](https://github-readme-stats.vercel.app/api?username=dfw-dami&show_icons=true&theme=tokyonight)
-![Dami's GitHub Streak](https://streak-stats.demolab.com?user=dfw-dami&theme=tokyonight&border_radius=5)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dfw-dami&layout=compact&theme=tokyonight)
 
 ## 📱 Connect With Me  

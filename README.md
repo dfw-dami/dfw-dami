@@ -2,7 +2,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=konnichiwa%2C+dami+here+%F0%9F%8C%80" alt="Typing SVG" />
 
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="600">
+<img src="https://user-images.githubusercontent.com/74038190/229223156-0cbdaba9-3128-4d8e-8719-b6b4cf741b67.gif" width="600">
 
 ### I'm a **Backend Developer (learning still)** passionate about building efficient, scalable, and fun server-side applications.
 
@@ -12,7 +12,7 @@
 
 ## 🧠 Me  
 
-<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="Coding" width="450" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 - 💻 I work in backend development using **Node.js** and **MongoDB**  
 - 🤖 I build and experiment with **Baileys** (WhatsApp bot framework)  
@@ -75,7 +75,7 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_milk.xq?igsh=dWV5eDRlOG5uMnht)
 
-<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+<img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="900">
 
 </div>
 
@@ -83,6 +83,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Keep%20Coding🎀!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=footer&text=Keep%20Coding!%20🎀&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=70&desc=ファイト！&descSize=20&descAlignY=88" width="100%"/>
 
 </div>

@@ -84,7 +84,7 @@
 <div align="center">
   <!-- Typing animation with green text -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=risk+will+always+be+better+than+regret+🌱;Thanks+for+coming+🎀" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=00FF00&center=true&vCenter=true&width=435&lines=risk+will+always+be+better+than+regret;Thanks+for+coming" alt="Typing SVG" />
   </a>
 
   <!-- Capsule Render banner below the text -->

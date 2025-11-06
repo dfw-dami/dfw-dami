@@ -82,7 +82,11 @@
 ---
 
 <div align="center">
+  <!-- Static Capsule Render banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=If%20working🎀!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
-
+  <!-- Typing animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Google+Sans&weight=600&size=24&pause=1000&color=ffffff&center=true&vCenter=true&width=435&lines=risk+will+always+be+better+than+regret;okie+bye+now" alt="Typing SVG" />
+  </a>
 </div>

@@ -88,5 +88,5 @@
   </a>
 
   <!-- Capsule Render banner below the text -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=120&section=footer" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=0:83eaf1,100:63a4ff&height=120&section=footer" width="100%" />
 </div>

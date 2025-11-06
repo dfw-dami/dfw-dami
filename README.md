@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=konnichiwa%2C+dami+here+%F0%9F%8C%80" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi%2C+dami+here+%F0%9F%8C%80" alt="Typing SVG" />
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybzQ2bW43MGs4cGdjbXU4Zjhvbm9yZ203b21vankzcXcybWFiOXlxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rFfmUWVMOyKVG/giphy.gif" width="600">
 
-### I'm a **Backend Developer (learning still)** passionate about building efficient, scalable, and fun server-side applications.
+### I'm a **Backend Developer (learning still)** interested in building efficient, scalable, and fun server-side applications.
 
 </div>
 
@@ -83,6 +83,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Keep%20Coding🎀!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=If%20you + quit + now🎀!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>

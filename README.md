@@ -69,7 +69,7 @@
 
 ---
 
-## 📱 wanna text? here:
+## 📱 Say hi:
 
 <div align="center">
 
@@ -83,6 +83,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Happy%20Coding!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Keep%20Coding🎀!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>

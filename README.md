@@ -83,6 +83,6 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=If%20you + quit + now🎀!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=If%20working🎀!&fontSize=35&fontColor=fff&animation=twinkling&fontAlignY=65" width="100%"/>
 
 </div>

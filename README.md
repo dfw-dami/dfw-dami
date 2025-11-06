@@ -43,9 +43,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=dfw-dami&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00FF41&text_color=FFFFFF&ring_color=00F7FF" alt="GitHub Stats" />
-
-<img width="49%" src="https://streak-stats.demolab.com/?user=dfw-dami&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=dfw-dami&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00FF41&text_color=FFFFFF&ring_color=00F7FF" alt="GitHub Stats" />
 
 </div>
 
@@ -53,9 +51,7 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfw-dami&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
-
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=dfw-dami&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=00FF41&point=FFFFFF&area_color=00F7FF&title_color=00F7FF&area=true&hide_border=true&height=300" alt="Contribution Graph" />
+<img width="100%" src="https://streak-stats.demolab.com/?user=dfw-dami&theme=radical&hide_border=true&background=0D1117&stroke=00F7FF&ring=00F7FF&fire=FF6D00&currStreakLabel=00F7FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" alt="GitHub Streak" />
 
 </div>
 
@@ -63,7 +59,23 @@
 
 <div align="center">
 
-<img width="80%" src="https://github-profile-trophy.vercel.app/?username=dfw-dami&theme=radical&no-frame=true&no-bg=true&row=2&column=6&margin-w=15&margin-h=15&rank=-C,-B" alt="GitHub Trophies" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=dfw-dami&custom_title=Contribution%20Graph&bg_color=0D1117&color=00F7FF&line=00FF41&point=FFFFFF&area_color=00F7FF&title_color=00F7FF&area=true&hide_border=true&height=400" alt="Contribution Graph" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dfw-dami&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00F7FF&text_color=FFFFFF&langs_count=8" alt="Top Languages" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=dfw-dami&theme=radical&no-frame=true&no-bg=true&row=2&column=4&margin-w=20&margin-h=20&rank=-C,-B" alt="GitHub Trophies" />
 
 </div>
 

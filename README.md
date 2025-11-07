@@ -4,7 +4,7 @@
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybzQ2bW43MGs4cGdjbXU4Zjhvbm9yZ203b21vankzcXcybWFiOXlxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rFfmUWVMOyKVG/giphy.gif" width="600">
 
-### I'm a **Backend Developer (learning still)** interested in building efficient, scalable, and fun server-side applications.
+### I **love coding** (learning still)** interested in building efficient, scalable, and fun server-side applications.
 
 </div>
 

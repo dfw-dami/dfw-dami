@@ -29,9 +29,9 @@
 ## 💻 Tech Stack
 
 ### Languages
-![JavaScript](https://camo.githubusercontent.com/38604d8d1862d11640a1f937ab9b9704aa04c3ae4956984c5f6157b177b1fffc/68747470733a2f2f6e656f6e69636f6e732e69726f6e6d616e2e62697a2e69642f69636f6e2f6e6f64656a733f73697a653d3337)
+![NodeJs](https://camo.githubusercontent.com/38604d8d1862d11640a1f937ab9b9704aa04c3ae4956984c5f6157b177b1fffc/68747470733a2f2f6e656f6e69636f6e732e69726f6e6d616e2e62697a2e69642f69636f6e2f6e6f64656a733f73697a653d3337)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://camo.githubusercontent.com/69f105be2e7737d5ce47c15795c99536f4da2b9506d1ccc5bdba4a85600fce50/68747470733a2f2f6e656f6e69636f6e732e69726f6e6d616e2e62697a2e69642f69636f6e2f6a6176617363726970743f73697a653d3337)
 
 ### Backend & Databases
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)

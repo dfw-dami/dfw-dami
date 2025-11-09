@@ -13,24 +13,21 @@
 
 <table>
 <tr>
-<td valign="top" width="35%">
+<td valign="top" width="60%">
 
 ### 𝚑𝚘𝚋𝚋𝚒𝚎𝚜
 - 𝚁𝚎𝚊𝚍𝚒𝚗𝚐 𝚖𝚊𝚗𝚐𝚊 
 - 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚍𝚒𝚝𝚒𝚗𝚐 𝚌𝚘𝚍𝚎𝚜
 - 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 
 
-</td>
-<td valign="top" width="35%">
-
 ### 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚒𝚗𝚏𝚘
 - 𝙽𝚊𝚖𝚎: 𝙳𝚊𝚖𝚒
 - 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚜𝚝𝚞𝚍𝚎𝚗𝚝
 
 </td>
-<td valign="top" width="30%" align="center">
+<td valign="top" width="40%" align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmxiazFyaWF3bzU4bzZsOHhnY3NvNmplY3pxMzR6Z3VlNWFibHhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Dancing" width="200"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmxiazFyaWF3bzU4bzZsOHhnY3NvNmplY3pxMzR6Z3VlNWFibHhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Dancing" width="100%"/>
 
 </td>
 </tr>

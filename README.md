@@ -5,7 +5,6 @@
 </div>
 
 
-
 <div align="center">
 <h2> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ♡</h2>
 </div>
@@ -53,6 +52,10 @@
 <h2> <b> 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜, 𝚃𝚘𝚘𝚕𝚜 & 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜 ✨ </b> </h2>
 </div>
 
+<div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="100">
+</div>
+
 <p align="center">
 <img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" width="35" alt="JavaScript"/>
 &nbsp;&nbsp;
@@ -74,6 +77,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="35" alt="VS Code"/>
 &nbsp;&nbsp;
 <img src="https://www.svgrepo.com/show/353869/heroku-icon.svg" width="35" alt="Heroku"/>
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </p>
 &nbsp;&nbsp;
 &nbsp;&nbsp;

@@ -20,7 +20,7 @@
 ## 𝟷𝟶𝟶% 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 ♡
 
 [![Website](https://img.shields.io/badge/Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
+[![WhatsApp](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyaHd3aXRja29ienNvNDdxdTVkOGg4Y2h2d3ZrY3NmenU4NTVkOGp6MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DRinNvjCXc5Iexx0CH/giphy.gif)](https://wa.me/your-number)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)

@@ -13,7 +13,7 @@
 
 <table>
 <tr>
-<td valign="top" width="60%">
+<td valign="top" width="50%">
 
 ### 𝚑𝚘𝚋𝚋𝚒𝚎𝚜
 - 𝚁𝚎𝚊𝚍𝚒𝚗𝚐 𝚖𝚊𝚗𝚐𝚊 
@@ -25,7 +25,7 @@
 - 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚜𝚝𝚞𝚍𝚎𝚗𝚝
 
 </td>
-<td valign="top" width="40%" align="center">
+<td valign="top" width="50%" align="center">
 
 <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmxiazFyaWF3bzU4bzZsOHhnY3NvNmplY3pxMzR6Z3VlNWFibHhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Dancing" width="100%"/>
 
@@ -38,12 +38,12 @@
 </div>
 
 <p align="center">
-<a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-<a href="https://wa.me/79208482988"><img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://t.me/dami_0x"><img src="https://img.shields.io/badge/Telegram-000000?style=for-the-badge&logo=telegram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/dami-undefined-4479bb395"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:glitchgotnerfed@gmail.co"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-<a href="https://instagram.com/_milk.xq"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://your-website.com"><img src="https://img.shields.io/badge/Website-808080?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href="https://wa.me/79208482988"><img src="https://img.shields.io/badge/WhatsApp-808080?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+<a href="https://t.me/dami_0x"><img src="https://img.shields.io/badge/Telegram-808080?style=for-the-badge&logo=telegram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/dami-undefined-4479bb395"><img src="https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="mailto:glitchgotnerfed@gmail.co"><img src="https://img.shields.io/badge/Email-808080?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://instagram.com/_milk.xq"><img src="https://img.shields.io/badge/Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
 <div align="center">

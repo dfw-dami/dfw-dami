@@ -53,7 +53,7 @@
 <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="35" alt="Git"/>
 </p>
 <p align="center">
-<img src="https://www.svgrepo.com/show/394174/github.svg" width="35" alt="GitHub"/>
+<img src="https://img.icons8.com/?size=100&id=106564&format=png&color=000000" width="35" alt="GitHub"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="35" alt="Vs code"/>
 <img src="https://www.svgrepo.com/show/353869/heroku-icon.svg" width="35" alt="Heroku"/>
 <img src="https://www.svgrepo.com/show/504948/termux.svg" width="35" alt="termux"/>

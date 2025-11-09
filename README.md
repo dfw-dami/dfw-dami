@@ -94,6 +94,8 @@
 
 💖 𝚃𝚑𝚊𝚗𝚔𝚜 𝚏𝚘𝚛 𝚟𝚒𝚜𝚒𝚝𝚒𝚗𝚐! ✨
 
-![](https://count.getloli.com/get/@dfw-dami?theme=rule34)
+‎<p align="center">
+‎  <a href="https://github.com/dfw-dami"><img src="https://count.getloli.com/get/@dfw-dami?theme=rule34" alt="loli"></a>
+‎</p>
 
 </div>

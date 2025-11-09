@@ -1,6 +1,5 @@
 <div align="center" style="position: relative;">
-<img src="https://i0.wp.com/www.englishlightnovels.com/wp-content/uploads/2020/11/wandering_witch_vol3_cover_cropped.jpg?resize=1199%2C400&ssl=1" alt="Banner" width="100%" style="border-radius: 25px;"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5drjmxyoRNAStburOI_xdjY2nV3w3xRkDn8Gu-b94GTX8qfqu7hxHFzCf&s=10" alt="Profile Picture" width="150" style="border-radius: 50%; margin-top: -75px; border: 5px solid #0d1117;"/>
+<img src="https://i.ibb.co/pjLpLYtn/Untitled-design.png" width="550" alt="profile"/>
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=𝚆𝚎𝚕𝚌𝚘𝚖𝚎+𝚝𝚘+𝙼𝚢+𝙿𝚛𝚘𝚏𝚒𝚕𝚎!+♡" alt="Typing SVG" />
 </div>

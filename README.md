@@ -1,49 +1,63 @@
-# 𝚈𝚘𝚞'𝚛𝚎 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝙼𝚢 𝙿𝚛𝚘𝚏𝚒𝚕𝚎! ♡
+<div align="center">
+<h2> 𝚆𝚎𝚕𝚌𝚘𝚖𝚎 𝚝𝚘 𝙼𝚢 𝙿𝚛𝚘𝚏𝚒𝚕𝚎! ♡</h2>
+</div>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=50&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=800&lines=𝚆𝚎𝚕𝚌𝚘𝚖𝚎+𝚝𝚘+𝚍𝚊𝚖𝚒'𝚜+𝚙𝚛𝚘𝚏𝚒𝚕𝚎!+%E2%9C%A8)
+![Coding GIF](https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUyMmJ5cGtybzhmN3c5M3RoaXFxOGMwa2xzaXJyNjJzNTJxNnlsbGV1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HTVeYVXjLiunFlUOeu/giphy.gif)
 
-![Coding GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW43MGd4cGdjbXU4Zjhvbm9yZW0zb29tank3cXJ5bWFiOXlxMy5lcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rFfemUWekMfGg/giphy.gif)
+<div align="center">
+<h2> 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ♡</h2>
+</div>
 
-## 𝟷𝟶𝟶% 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎 ♡
+<table>
+<tr>
+<td valign="top" width="50%">
 
-- 📺 𝙸 𝚕𝚘𝚟𝚎 𝚠𝚊𝚝𝚌𝚑𝚒𝚗𝚐 𝚊𝚗𝚒𝚖𝚎
-- 📖 𝚁𝚎𝚊𝚍𝚒𝚗𝚐 𝚖𝚊𝚗𝚐𝚊 𝚒𝚜 𝚖𝚢 𝚟𝚒𝚋𝚎
-- 💻 𝙸 𝚕𝚘𝚟𝚎 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚍𝚒𝚝𝚒𝚗𝚐 𝚌𝚘𝚍𝚎𝚜
-- ✨ 𝙹𝚞𝚜𝚝 𝚑𝚎𝚛𝚎 𝚝𝚘 𝚑𝚊𝚟𝚎 𝚏𝚞𝚗!
+### 𝚑𝚘𝚋𝚋𝚒𝚎𝚜
+- 𝚁𝚎𝚊𝚍𝚒𝚗𝚐 𝚖𝚊𝚗𝚐𝚊 
+- 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝚎𝚍𝚒𝚝𝚒𝚗𝚐 𝚌𝚘𝚍𝚎𝚜
+- 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 
 
-## 𝟷𝟶𝟶% 𝙲𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚆𝚘𝚛𝚔𝚒𝚗𝚐 𝙾𝚗 ♡
+</td>
+<td valign="top" width="50%">
 
-- 🎮 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚌𝚘𝚘𝚕 𝚆𝚑𝚊𝚝𝚜𝙰𝚙𝚙 𝚋𝚘𝚝𝚜
-- 🌸 𝙴𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚗𝚎𝚠 𝚒𝚍𝚎𝚊𝚜
-- 🎨 𝙹𝚞𝚜𝚝 𝚟𝚒𝚋𝚒𝚗𝚐 𝚊𝚗𝚍 𝚌𝚘𝚍𝚒𝚗𝚐
+### 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚒𝚗𝚏𝚘
+- 𝙽𝚊𝚖𝚎: 𝙳𝚊𝚖𝚒
+- 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚜𝚝𝚞𝚍𝚎𝚗𝚝
 
-## 𝟷𝟶𝟶% 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 ♡
+</td>
+</tr>
+</table>
+
+<div align="center">
+<h2> 𝙲𝚘𝚗𝚗𝚎𝚌𝚝 𝚆𝚒𝚝𝚑 𝙼𝚎 ♡ </h2>
+</div>
 
 [![Website](https://img.shields.io/badge/Website-FF69B4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://your-website.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/your-number)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/your-handle)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/79208482988)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dami_0x)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dami-undefined-4479bb395)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:glitchgotnerfed@gmail.co)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_milk.xq)
 
-## 𝟷𝟶𝟶% 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔 ♡
+<div align="center">
+<h2> <b> 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜, 𝚃𝚘𝚘𝚕𝚜 & 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜 ✨ </b> </h2>
+</div>
 
-### 𝙻𝚊𝚗𝚐𝚞𝚊𝚐𝚎𝚜 ✨
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&labelColor=F7DF1E" alt="JavaScript" style="animation: bounce 2s infinite;"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=3776AB" alt="Python" style="animation: bounce 2s infinite;"/>
-
-### 𝙱𝚊𝚌𝚔𝚎𝚗𝚍 & 𝙳𝚊𝚝𝚊𝚋𝚊𝚜𝚎𝚜 💫
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white&labelColor=339933" alt="Node.js" style="animation: bounce 2s infinite;"/>
-<img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white&labelColor=000000" alt="Express.js" style="animation: bounce 2s infinite;"/>
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white&labelColor=47A248" alt="MongoDB" style="animation: bounce 2s infinite;"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1" alt="MySQL" style="animation: bounce 2s infinite;"/>
-
-### 𝚃𝚘𝚘𝚕𝚜 & 𝙿𝚕𝚊𝚝𝚏𝚘𝚛𝚖𝚜 🌸
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white&labelColor=F05032" alt="Git" style="animation: bounce 2s infinite;"/>
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" style="animation: bounce 2s infinite;"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white&labelColor=007ACC" alt="VS Code" style="animation: bounce 2s infinite;"/>
-<img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white&labelColor=430098" alt="Heroku" style="animation: bounce 2s infinite;"/>
-<img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=terminal&logoColor=white&labelColor=000000" alt="Termux" style="animation: bounce 2s infinite;"/>
+<p align="center">
+<img src="https://www.svgrepo.com/show/368775/javascript.svg" width="35" alt="JavaScript"/>
+<img src="https://www.svgrepo.com/show/369502/python.svg" width="35" alt="Node.js"/>
+<img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" width="35" alt="Node.js"/>
+<img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="35" alt=Express.js"/>
+<img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-svg-download-png-2970492.png?f=webp&w=512" width="35" alt="MongDb"/>
+<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="35" alt="Node.js"/>
+<img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" width="35" alt="Git"/>
+</p>
+<p align="center">
+<img src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png" width="35" alt="GitHub"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="35" alt="Vs code"/>
+<img src="https://www.svgrepo.com/show/353869/heroku-icon.svg" width="35" alt="Heroku"/>
+<img src="https://www.svgrepo.com/show/504948/termux.svg" width="35" alt="termux"/>
+</p>
 
 ### 𝚂𝚙𝚎𝚌𝚒𝚊𝚕𝚒𝚣𝚊𝚝𝚒𝚘𝚗𝚜 🎀
 <img src="https://img.shields.io/badge/Baileys-25D366?style=for-the-badge&logo=whatsapp&logoColor=white&labelColor=25D366" alt="Baileys" style="animation: bounce 2s infinite;"/>

@@ -1,5 +1,5 @@
 <div align="center" style="position: relative;">
-<img src="https://i.ibb.co/pjLpLYtn/Untitled-design.png" width="550" alt="profile"/>
+<img src="./assets/profile.png" width="550" alt="profile"/>
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=𝚆𝚎𝚕𝚌𝚘𝚖𝚎+𝚝𝚘+𝙼𝚢+𝙿𝚛𝚘𝚏𝚒𝚕𝚎!+♡" alt="Typing SVG" />
 </div>

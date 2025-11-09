@@ -1,9 +1,6 @@
-<div align="center">
-<img src="https://i0.wp.com/www.englishlightnovels.com/wp-content/uploads/2020/11/wandering_witch_vol3_cover_cropped.jpg?resize=1199%2C400&ssl=1" alt="Banner" width="100%"/>
-</div>
-
-<div align="center">
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5drjmxyoRNAStburOI_xdjY2nV3w3xRkDn8Gu-b94GTX8qfqu7hxHFzCf&s=10" alt="Profile Picture" width="150" style="border-radius: 50%;"/>
+<div align="center" style="position: relative;">
+<img src="https://i0.wp.com/www.englishlightnovels.com/wp-content/uploads/2020/11/wandering_witch_vol3_cover_cropped.jpg?resize=1199%2C400&ssl=1" alt="Banner" width="100%" style="border-radius: 25px;"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5drjmxyoRNAStburOI_xdjY2nV3w3xRkDn8Gu-b94GTX8qfqu7hxHFzCf&s=10" alt="Profile Picture" width="150" style="border-radius: 50%; margin-top: -75px; border: 5px solid #0d1117;"/>
 <br/>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=𝚆𝚎𝚕𝚌𝚘𝚖𝚎+𝚝𝚘+𝙼𝚢+𝙿𝚛𝚘𝚏𝚒𝚕𝚎!+♡" alt="Typing SVG" />
 </div>
@@ -16,7 +13,7 @@
 
 <table>
 <tr>
-<td valign="top" width="40%">
+<td valign="top" width="35%">
 
 ### 𝚑𝚘𝚋𝚋𝚒𝚎𝚜
 - 𝚁𝚎𝚊𝚍𝚒𝚗𝚐 𝚖𝚊𝚗𝚐𝚊 
@@ -24,16 +21,16 @@
 - 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 
 
 </td>
-<td valign="top" width="40%">
+<td valign="top" width="35%">
 
 ### 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚒𝚗𝚏𝚘
 - 𝙽𝚊𝚖𝚎: 𝙳𝚊𝚖𝚒
 - 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚜𝚝𝚞𝚍𝚎𝚗𝚝
 
 </td>
-<td valign="top" width="20%">
+<td valign="middle" width="30%" align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmxiazFyaWF3bzU4bzZsOHhnY3NvNmplY3pxMzR6Z3VlNWFibHhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Dancing" width="100%"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmxiazFyaWF3bzU4bzZsOHhnY3NvNmplY3pxMzR6Z3VlNWFibHhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Dancing" height="100%"/>
 
 </td>
 </tr>

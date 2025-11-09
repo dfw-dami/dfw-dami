@@ -27,7 +27,7 @@
 </td>
 <td valign="top" width="50%" align="center">
 
-<img src="https://d36vu4awtdgnqw.cloudfront.net/1cdw7%2Fpreview%2F72592032%2Fmain_large.gif?response-content-disposition=inline%3Bfilename%3D%22main_large.gif%22%3B&response-content-type=image%2Fgif&Expires=1762660446&Signature=g6MyCOXA6X5Lt6eGA43Ahpc395hv1p6Ict16RYW6dZWb8Eg0XAH8IbrdFdc7bKQYLjyC0Qzl7R99hamR7rLOX3XPocENAxHuzAwJUiTc-Jb8BUJHz3WCeZgzkjR-XOpAu6K8lgwJEe9mIm4~Yub03s2KIlC6dyMncCCJMS8TunUrQMA58UiewSy5Ahp4fMliR6DYFM4oR2jeUpAsJKwbdFa57ePHu8sl4ZN-JKWtgVQayXhS46CrHUXzs21BXrOsHqhPT99m-EUKRcPl~DyMawxE3AcVzFHpGrhmgz3dONfJLlVbIcgA88sBp556ozr8WYQncdy5CB0857LSS0OnoA__&Key-Pair-Id=APKAJT5WQLLEOADKLHBQ" alt="Dancing" width="100%"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmxiazFyaWF3bzU4bzZsOHhnY3NvNmplY3pxMzR6Z3VlNWFibHhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Dancing" width="100%"/>
 
 </td>
 </tr>

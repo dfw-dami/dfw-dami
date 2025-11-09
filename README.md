@@ -44,8 +44,8 @@
 </div>
 
 <p align="center">
-<img src="https://www.svgrepo.com/show/368775/javascript.svg" width="35" alt="JavaScript"/>
-<img src="https://www.svgrepo.com/show/369502/python.svg" width="35" alt="Node.js"/>
+<img src="https://img.icons8.com/?size=100&id=V6HShIzw21x7&format=png&color=000000" width="35" alt="JavaScript"/>
+<img src="https://icon.icepanel.io/Technology/svg/Python.svg" width="35" alt="Node.js"/>
 <img src="https://www.svgrepo.com/show/303658/nodejs-1-logo.svg" width="35" alt="Node.js"/>
 <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-icon.svg" width="35" alt=Express.js"/>
 <img src="https://cdn.iconscout.com/icon/free/png-512/free-mongodb-logo-icon-svg-download-png-2970492.png?f=webp&w=512" width="35" alt="MongDb"/>

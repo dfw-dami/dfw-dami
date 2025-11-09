@@ -21,16 +21,16 @@
 
 ### 𝚙𝚎𝚛𝚜𝚘𝚗𝚊𝚕 𝚒𝚗𝚏𝚘
 - 𝙽𝚊𝚖𝚎: 𝙳𝚊𝚖𝚒
-- 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚜𝚝𝚞𝚍𝚎𝚗𝚝
+- 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚌𝚘𝚖𝚙𝚞𝚝𝚎𝚛 𝚜𝚌𝚒𝚎𝚗𝚌𝚎 
 
 </td>
 <td valign="top" width="50%" align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmxiazFyaWF3bzU4bzZsOHhnY3NvNmplY3pxMzR6Z3VlNWFibHhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Dancing" width="100%"/>
+<img src="https://media3.giphy.com/media/v1.Y2lkPTZjMDliOTUyZmpmeXp5Z3plNmxmb3dzMXkwM3d0cm9wZGhuam5yOHN0cm1ra2xqNiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/a6pzK009rlCak/giphy.gif" alt="Dancing" width="100%"/>
 
 &nbsp;&nbsp;
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmxiazFyaWF3bzU4bzZsOHhnY3NvNmplY3pxMzR6Z3VlNWFibHhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Dancing" width="100%"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUybG5wZWhjdzU5cXZkMXVkYzdhbTc3cWxvcnJuc2hma3RwanczMTA4YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/GwOVvsMGbU0dG/giphy.gif" alt="Dancing" width="100%"/>
 
 </td>
 </tr>

@@ -28,9 +28,9 @@
 - 𝚞𝚗𝚒𝚟𝚎𝚛𝚜𝚒𝚝𝚢 𝚜𝚝𝚞𝚍𝚎𝚗𝚝
 
 </td>
-<td valign="middle" width="30%" align="center">
+<td valign="top" width="30%" align="center">
 
-<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmxiazFyaWF3bzU4bzZsOHhnY3NvNmplY3pxMzR6Z3VlNWFibHhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Dancing" height="100%"/>
+<img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUycmxiazFyaWF3bzU4bzZsOHhnY3NvNmplY3pxMzR6Z3VlNWFibHhncyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/11lxCeKo6cHkJy/giphy.gif" alt="Dancing" width="200"/>
 
 </td>
 </tr>

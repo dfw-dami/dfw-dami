@@ -40,11 +40,11 @@
 </div>
 
 <p align="center">
-<a href="https://code-zeroo.netlify.app"><img src="https://img.shields.io/badge/Website-808080?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/Website-808080?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 <a href="https://wa.me/79208482988"><img src="https://img.shields.io/badge/WhatsApp-808080?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://t.me/dami_0x"><img src="https://img.shields.io/badge/Telegram-808080?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/dami-undefined-4479bb395"><img src="https://img.shields.io/badge/LinkedIn-808080?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="mailto:glitchgotnerfed@gmail.co"><img src="https://img.shields.io/badge/Email-808080?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:damimuse@outlook.com"><img src="https://img.shields.io/badge/Email-808080?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 <a href="https://instagram.com/_milk.xq"><img src="https://img.shields.io/badge/Instagram-808080?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
@@ -104,3 +104,4 @@
 
 
 </div>
+
